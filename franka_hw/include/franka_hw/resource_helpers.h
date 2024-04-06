@@ -10,6 +10,7 @@
 #include <hardware_interface/controller_info.h>
 
 #include <franka_hw/control_mode.h>
+#include <cstdint>
 
 namespace franka_hw {
 
